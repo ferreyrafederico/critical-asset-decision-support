@@ -2,7 +2,7 @@
 
 ## 1. Objetivo
 
-Cuantificar económicamente las alternativas definidas en el Paso 2 (decision.md)
+Cuantificar económicamente las alternativas definidas en el Paso 2 (02_decision.md)
 mediante un modelo estático de valor esperado.
 
 Este modelo no incluye todavía dinámica temporal ni simulaciones avanzadas.
@@ -85,5 +85,6 @@ El mantenimiento preventivo presenta menor pérdida esperada.
 - No evalúa umbrales dinámicos de intervención
 - No incorpora sensibilidad de la probabilidad
 
-Estos aspectos serán abordados en el siguiente paso (modelo_dinamico.md).
+Estos aspectos serán abordados en el siguiente paso (04_modelo_dinamico.md).
+
 
